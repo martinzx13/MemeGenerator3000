@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# MemeGenerator3000
+This App allows you to create the most wonderful and personalized memes. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This App was created using React and the main concepts applied were: 
+
+1. Event Listeners
+2. State
+3. Conditional Rendering. 
+4. Forms. 
+
+The App requests some of the most famous memes from an API and allows users to customize them. 
 
 ## Available Scripts
 
@@ -68,14 +76,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# MemeGenerator3000
-This App allows you to create the most wonderful and personalized memes. 
-
-This App was created using React and the main concepts applied were: 
-
-1. Event Listeners
-2. State
-3. Conditional Rendering. 
-4. Forms. 
-
-The App requests some of the most famous memes from an API and allows users to customize them. 
